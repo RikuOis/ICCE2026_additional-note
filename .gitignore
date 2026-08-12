@@ -1,0 +1,7 @@
+# Local agent configuration & private research notes
+.agents/
+.paper/
+
+# Fallback (without leading dot)
+agent/
+paper/
