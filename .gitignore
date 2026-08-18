@@ -1,7 +1,9 @@
 # Local agent configuration & private research notes
 .agents/
 .paper/
+.gitignore
 
 # Fallback (without leading dot)
 agent/
 paper/
+gitignore/
